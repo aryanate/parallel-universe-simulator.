@@ -1,0 +1,27 @@
+# React / Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+.env
+.env.*
+.eslintcache
+
+# .NET / ASP.NET Core
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+appsettings.Development.json
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
