@@ -15,7 +15,7 @@ export const WrappedReport: React.FC<WrappedReportProps> = ({ report }) => {
       */}
       <div 
         id="wrapped-card"
-        className="w-full max-w-sm aspect-[9/16] bg-gradient-wrapped border-2 border-white/10 rounded-3xl p-8 relative overflow-hidden flex flex-col justify-between text-left select-none"
+        className="w-[360px] h-[640px] bg-gradient-wrapped border-2 border-white/10 rounded-3xl p-8 relative overflow-hidden flex flex-col justify-between text-left select-none"
         style={{
           boxShadow: '0 25px 60px -15px rgba(0, 0, 0, 0.9), 0 0 50px rgba(168, 85, 247, 0.15)'
         }}
